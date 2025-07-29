@@ -1,4 +1,4 @@
-### Zusammenfassung der erweiterten Tokenomics-Funktionen für den Bubatz Coin ($BBC) und Integration des Nano-Daten-Systems
+### Zusammenfassung der erweiterten Tokenomics-Funktionen für den SOTM COIN ($SOTM) und Integration des Nano-Daten-Systems
 
 Hier sind die detaillierten Funktionsweisen und Implementierungen, die das RFOF Blockchain-Ökosystem unterstützen:
 
@@ -137,8 +137,8 @@ Hier ist der aktualisierte Smart Contract-Code zur Integration der Nano-Validato
 {
   "version": "2.0",
   "contract": {
-    "name": "$BBC",
-    "symbol": "BBC",
+    "name": "$SOTM",
+    "symbol": "SOTM",
     "decimals": 18,
     "initialSupply": "0",
     "maxSupply": "10000000000000000000",
@@ -162,7 +162,7 @@ Hier ist der aktualisierte Smart Contract-Code zur Integration der Nano-Validato
       "minting": true,
       "eventsAccess": true
     },
-    "description": "Der Cannabis Smart Contract verbindet DeFi mit der Cannabis-Kultur. Mitglieder können NFTs erwerben, die als Eintrittskarten für exklusive Veranstaltungen dienen. Das Nano-Daten-System sichert die RFOF Blockchain."
+    "description": "Der Ciran Smart Contract verbindet DeFi mit der Breakdance-Rap-Dj-Spraying-Cannabis-Kultur. Mitglieder können NFTs erwerben, die als Eintrittskarten für exklusive Veranstaltungen dienen. Das Nano-Daten-System sichert die RFOF Blockchain."
   },
   "functions": {
     "transfer": {
@@ -281,4 +281,4 @@ Hier ist der aktualisierte Smart Contract-Code zur Integration der Nano-Validato
 
 ### Fazit
 
-Die Implementierung dieses angepassten Smart Contracts in das RFOF Blockchain-Ökosystem mit einem Nano-Daten-System und Validatoren schafft ein sicheres, flexibles und transparentes Umfeld für den Bubatz Coin ($BBC) und zukünftige Coins. Dies gewährleistet eine hohe Effizienz, Sicherheit und Benutzerfreundlichkeit für alle Nutzer.
+Die Implementierung dieses angepassten Smart Contracts in das RFOF Blockchain-Ökosystem mit einem Nano-Daten-System und Validatoren schafft ein sicheres, flexibles und transparentes Umfeld für den SOTM Coin ($SOTM) und zukünftige Coins. Dies gewährleistet eine hohe Effizienz, Sicherheit und Benutzerfreundlichkeit für alle Nutzer.
