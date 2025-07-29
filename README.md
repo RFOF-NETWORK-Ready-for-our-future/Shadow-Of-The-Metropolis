@@ -1,3 +1,5 @@
+### The First Real Crypto Currency Game we (@Cryptoexchange.EN) @RFOF-NETWORK has been "Shadow Of The Metropolis" created as the First Real Crypto Currency Game before #GTA6
+
 ### Zusammenfassung der erweiterten Tokenomics-Funktionen für den SOTM COIN ($SOTM) und Integration des Nano-Daten-Systems
 
 Hier sind die detaillierten Funktionsweisen und Implementierungen, die das RFOF Blockchain-Ökosystem unterstützen:
